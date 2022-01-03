@@ -6,3 +6,21 @@
     text-align: center;
     color: red;
 }
+
+.blog-post{
+    background-color: rgb(27, 27, 27);
+    color: white;
+    width: 80%;
+    margin: 0 auto;
+    padding: 3%;
+    border-radius: 15px;
+}
+
+.cyan{
+    color: cyan;
+}
+
+p{
+    text-align: justify;
+    line-height: 25px;
+}

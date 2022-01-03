@@ -1,26 +1,27 @@
-*{
-    font-family: sans-serif;
+* {
+  font-family: sans-serif;
 }
 
-.blog-title{
-    text-align: center;
-    color: red;
+.blog-title {
+  text-align: center;
+  color: red;
 }
 
-.blog-post{
-    background-color: rgb(27, 27, 27);
-    color: white;
-    width: 80%;
-    margin: 0 auto;
-    padding: 3%;
-    border-radius: 15px;
+.blog-post {
+  background-color: rgb(27, 27, 27);
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+  padding: 3%;
+  border-radius: 15px;
+  margin-bottom: 30px;
 }
 
-.cyan{
-    color: cyan;
+.cyan {
+  color: cyan;
 }
 
-p{
-    text-align: justify;
-    line-height: 25px;
+p {
+  text-align: justify;
+  line-height: 25px;
 }
